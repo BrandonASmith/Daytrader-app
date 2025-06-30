@@ -1,0 +1,6 @@
+daytrader-app/
+├── .streamlit/
+│   └── config.toml
+├── app.py
+├── requirements.txt
+└── README.md
